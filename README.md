@@ -1,43 +1,11 @@
-# Prompts de perguntas
-Perguntas que auxiliam na análise do desempenho dos produtos com base nas informações da tabela de relatório de vendas.
+# Características
 
-## Vendas
+- A empresa foca apenas em fabricação de consoles, deixando a distribuição e venda para terceiros
+- Os produtos são vendidos globalmente
 
-Quantas unidades foram vendidas no total?
+# Objetivos
 
-> Quantas unidades foram vendidas por produto?
-
-> Qual a porcentagem de vendas com desconto em relação ao total de vendas?
-
-> Qual o maior e o menor valor de venda registrado?
-
-
-## Descontos e Cupons
-
-> Qual foi o maior e o menor desconto aplicado?
-
-> Qual a economia total gerada pelos cupons de desconto?
-
-> Qual porcentagem das compras utilizou cupons de desconto?
-
-
-## Compradores
-
-> Qual a idade média dos compradores?
-
-> Qual a faixa etária com maior número de compras?
-
-> Qual a relação entre idade do comprador e valor da compra?
-
-> Qual a quantidade de compras por país?
-
-> Qual o valor médio gasto por país?
-
-
-## Plataforma de Venda
-
-> Quantas vendas foram feitas por site de compra?
-
-> Qual o faturamento médio por site de compra?
-
-> Qual a porcentagem de vendas por moeda utilizada?
+- [ ] Consolidar todas as bases de terceiros para realizar uma análise
+- [ ] Transformar dados de vendas em informações relevantes para a fabricante
+- [ ] Quais são os produtos mais populares em cada país
+- [ ] Como otimizar o processo de transporte e logística até o momento da venda
